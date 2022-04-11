@@ -210,9 +210,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10f553d389c7e454b8cb7a983421cdec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Nombre: Pedro
-  "A\xF1o": 4
-  orientacion: G
+  Nombre: 
+  "A\xF1o": 0
+  orientacion: 
 --- !u!4 &484390848
 Transform:
   m_ObjectHideFlags: 0
